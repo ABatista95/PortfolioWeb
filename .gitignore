@@ -16,9 +16,9 @@ changelog.txt
 # Datos De carpeta assets
 # Incluye imagenes
 #
-assets/Additions/
-assets/vendor/
-assets/img/
+#assets/Additions/
+#assets/vendor/
+#assets/img/
 Error/__MACOSX/
 
 #__________________________________
